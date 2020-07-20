@@ -1,0 +1,24 @@
+.box,.box > *{
+    background-color: #CCC;
+}
+.box{
+    height: 190px;
+    padding: 10px;
+}
+
+.material-icons{
+    font-size: 100px;
+}
+
+.person{ 
+    color: #000000;
+}
+.water{ 
+    color: #3a85ff;
+}
+.heart_rate{
+    color: #ff0000;
+}
+.sunny{
+    color: #ffff00;
+}
